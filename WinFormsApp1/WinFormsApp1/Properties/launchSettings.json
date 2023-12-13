@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinFormsApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 4004 -s 127.0.0.1"
+    }
+  }
+}
